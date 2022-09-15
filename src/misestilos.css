@@ -1,0 +1,11 @@
+.rojo_grande {
+    margin-top: 124px;
+    color: red;
+    font-style: italic;
+    font-size: 5em;
+}
+.azul_cursiva_dolor{
+    color: blue;
+    background: red;
+    font-style: italic;
+}
